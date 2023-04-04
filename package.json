@@ -18,9 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "purple ish (dimmed)",
+        "label": "bruno's wet dream",
         "uiTheme": "vs-dark",
-        "path": "./themes/brunos-wet-dream.json"
+        "path": "./themes/brunos-wet-dream-color-theme.json"
       }
     ]
   }
