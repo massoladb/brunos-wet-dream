@@ -1,12 +1,12 @@
 {
-  "name": "purple-ish",
-  "displayName": "purple ish",
-  "description": "A kind of purple, kind of orange theme for your eyes to appreciate.",
+  "name": "brunos-wet-dream",
+  "displayName": "bruno's wet dream",
+  "description": "A VERY purple theme.",
   "publisher": "massoladb",
   "icon": "img/massoladb-tiny.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/massoladb/purple-ish"
+    "url": "https://github.com/massoladb/brunos-wet-dream"
   },
   "version": "0.2.0",
   "engines": {
@@ -20,12 +20,7 @@
       {
         "label": "purple ish (dimmed)",
         "uiTheme": "vs-dark",
-        "path": "./themes/purple-ish-dimmed-color-theme.json"
-      },
-      {
-        "label": "purple ish",
-        "uiTheme": "vs-dark",
-        "path": "./themes/purple-ish-color-theme.json"
+        "path": "./themes/brunos-wet-dream.json"
       }
     ]
   }

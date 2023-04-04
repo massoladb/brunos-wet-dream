@@ -1,2 +1,2 @@
-## purple ish
-a kind of purple, kind of orange theme for your eyes to appreciate.
+## bruno's wet dream
+a VERY purple theme.
